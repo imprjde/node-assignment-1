@@ -1,6 +1,6 @@
 const showMessage = () => {
   return new Promise((resolve) => {
-    resolve("This is a message from the Promise!");
+    resolve("Resolved:This is a message from the Promise!");
   });
 };
 
